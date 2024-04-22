@@ -1,0 +1,25 @@
+{
+  "name": "gxagihirec",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxagihirec/news.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"tolds955": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
